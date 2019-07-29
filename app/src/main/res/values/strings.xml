@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ScreenSleep</string>
+
+    <string name="sleepBtn">Sleep</string>
+</resources>
